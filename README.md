@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Assignment Solution for Module 4</title>
     <script src="SpeakHello.js"></script>
-    <script src="Goodbye.js"></script>
+    <script src="goodbye.js"></script>
     <script src="script.js"></script>
 </head>
 
